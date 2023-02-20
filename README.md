@@ -44,7 +44,7 @@ Antes de executar o frontend, você deve definir o ip e porta do seu backend. Pa
 
 Para subir o banco de dados no Docker, abra a pasta raiz do projeto no cmd e execute o seguinte comando `docker compose up`.
 
-Para executar as migrations, abra a pasta `/backend/` no cmd e execute o seguinte comando ``.
+Para executar as migrations, abra a pasta `/backend/` no cmd e execute o seguinte comando `yarn typeorm migration:run`.
 
 ### Ngrok
 
