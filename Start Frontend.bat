@@ -1,0 +1,1 @@
+title Frontend && cd frontend/ && code . && start http://localhost:3000/auth && yarn dev

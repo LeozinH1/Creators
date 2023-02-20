@@ -1,0 +1,1 @@
+title Backend && cd backend/ && code . && yarn dev
