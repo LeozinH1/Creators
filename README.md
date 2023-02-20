@@ -17,3 +17,10 @@ Os fãns pagam uma mensalidade para ter acesso ao conteúdo exclusivo públicado
 - Styled Components
 
 ## Como executar
+### Backend
+
+### Frontend
+
+### Database
+
+### Ngrok
