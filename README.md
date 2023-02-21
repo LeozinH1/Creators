@@ -10,11 +10,11 @@ Os fãs pagam uma mensalidade para ter acesso ao conteúdo exclusivo públicado 
 ## Tecnologias
 
 - Nodejs
-- React
 - Express
 - Docker
 - Typeorm
 - Typescript
+- Next
 - Styled Components
 
 ## Como executar
