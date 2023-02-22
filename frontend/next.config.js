@@ -7,9 +7,9 @@ module.exports = withImages({
 module.exports = {
   env: {
     // PRODUCTION
-    BASE_API: 'https://creatorsapi.leozin.dev',
+    // BASE_API: 'https://creatorsapi.leozin.dev',
     // DEVELOPMENT
-    // BASE_API: 'http://127.0.0.1:3333',
+    BASE_API: 'http://127.0.0.1:3333',
   },
   images: {
     domains: [
